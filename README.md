@@ -1,3 +1,7 @@
+[![make.fun Bounty](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126)
+[![make.fun Rank](https://make.fun/badge/news-image-20261126/mugi732/news-mosaic-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard)
+[![make.fun Reward](https://make.fun/badge/news-image-20261126/mugi732/news-mosaic-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126)
+
 # World News Mosaic (2026-11-26)
 
 2026年11月26日の国際ニュース30件を1枚の1024×1024 PNG画像（`entry.png`）にまとめた提出用リポジトリです。
